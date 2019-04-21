@@ -1,64 +1,219 @@
 ---
-title: The Origins of Social Stationery Lettering
-date: "2016-12-01T22:40:32.169Z"
-template: "post"
+template: post
+title: Affiliate Marketing Acronyms
+slug: /posts/Affiliate-Marketing-Acronyms
 draft: false
-slug: "/posts/the-origins-of-social-stationery-lettering"
-category: "Design Culture"
+date: '2016-12-01T22:40:32.169Z'
+description: >-
+  Be it EPC, CPA, CJ, PMA, or anything else, you want to be comfortable using
+  the most popular affiliate marketing abbreviations if you’re involved in
+  affiliate marketing in any capacity.
+category: Acronyms
 tags:
-  - "Typefaces"
-  - "Lettering"
-  - "History"
-description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
+  - ''
 ---
+Be it EPC, CPA, CJ, PMA, or anything else, you want to be comfortable using the most popular affiliate marketing abbreviations if you’re involved in affiliate marketing in any capacity. I’ve put together the following list to make life slightly easier for everyone, but especially those who are fairly new to affiliate marketing.
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-3.jpg)
+6WAMC - 6-Week Affiliate Mastery Course
 
-## Header Level 2
+ADX - Google DoubleClick Ad Exchange
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+Aff – Affiliate
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+AI - Artificial Intelligence
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
+Algo - Algorithm
 
-### Header Level 3
+AM - Affiliate Marketing or Affiliate Manager
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+AOV - Average Order Value
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+APAC - Asian Pacific Countries
 
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
+AR - Alternate Reality
 
-### KaTeX Demo
+Autosub - Auto Subscription
 
-$$
-f_{\alpha}(x) = \dfrac{x^2}{(x^2+x_{max}-x)^\alpha}
-$$
+B2B - Business-to-Business
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+BH - Blackhat
 
-$$
-\alpha = \dfrac{t}{t_{max}}*\dfrac{\log(v)}{\log(v_{max})}
-$$
+Biz Dev - Business Development
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Biz Op / Bizopp - Business Opportunities (e.g. Work From Home)
+
+BOFU – Bottom of the Funnel
+
+CA - Cambridge Analytica
+
+CBD - Cannabidiol
+
+CC - Credit Card
+
+COD - Cash On Delivery
+
+CPA - Cost Per Action
+
+
+
+CPC - Cost Per Click
+
+CPE - Cost Per Engagement
+
+CPI - Cost Per Install
+
+CPL - Cost Per Lead
+
+CPM - Cost Per Mille (cost per thousand impressions)
+
+CPR - Cost Per Result
+
+CPS - Cost Per Sale
+
+CR - Conversion Rate
+
+CS - Customer Service
+
+CTR - Click Through Rate
+
+CTW – Click-to-Website
+
+DCB - Direct Carrier Billing - offers that allow users to subscribe to by
+
+charging payments to their mobile phone bill
+
+DIY - Do-It-Yourself
+
+DSP - Demand-Side Platform - platform that allows an advertiser to
+
+buy traffic from ad exchanges
+
+Ecom - Ecommerce (typically refers to physical goods being sold
+
+online)
+
+ED - Erectile Dysfunction
+
+EMD - Exact-Match Domain
+
+EU - European Union
+
+FB – Facebook
+
+FTC - Federal Trade Commission
+
+FX - Forex
+
+GDN - Google Display Network
+
+GDPR - General Data Protection Regulation
+
+Geo - Country
+
+HQ - High Quality
+
+ICO - Initial Coin Offering
+
+InApp - Anything within mobile apps (e.g. advertising banners)
+
+IoT - Internet of Things
+
+IVR - Interactive Voice Response
+
+JV - Joint Venture
+
+KOL - Key Opinion Leaders
+
+KPI - Key Performance Indicator
+
+LAA - Look-alike audience (on Facebook)
+
+LATAM - Latin America
+
+Leadgen - Lead Generation
+
+LQ - Low Quality
+
+LTV - Life-time Value
+
+ME - Male Enhancement
+
+MID - Merchant Identification Number - a unique code given to
+
+a business by payment processors before a merchants begin
+
+processing credit cards
+
+Monetizer - Traffic monetization service, Monetizer.com
+
+Nutra - Nutraceutical Products - such as diet pills and male enhancement
+
+pills
+
+OG - Original Gangster - something that’s been around for a long time
+
+and is dominating the space
+
+PBN - Private Blog Network
+
+Pins - Pin Submit Offers
+
+POD - Print-On-Demand
+
+POF - Plenty of Fish
+
+Pop - popunder and popup/popover traffic
+
+PPE - Page Post Engagement (Facebook)
+
+PPL - Pay Per Lead
+
+PPV - Pay Per View (pop traffic, domain redirect traffic)
+
+Push - Push Notification
+
+ROAS - Return on Ad Spend
+
+ROI - Return On Investment (=Profit/Cost)
+
+RPM - Revenue Per Mille (revenue per thousand impressions)
+
+RTB - Real-Time Bidding
+
+SaaS - Software as a Service
+
+SDK - Software Developer Kit
+
+SEA - South-East Asia
+
+SEO - Search Engine Optimization
+
+SMM - Social media Marketing
+
+SOI - Single Opt-In
+
+STM - STMForum.com - #1 Affiliate Marketing Online Forum, founded in 2011
+
+(use coupon code STMWW2019 for 20% off the 1st month)
+
+Sweeps - Sweepstakes Offers
+
+TA - Teaching Assistant
+
+TOS - Terms of Service
+
+TS - Traffic Source
+
+UA - User Acquisition
+
+VoD - Video On Demand
+
+VPN - Virtual Private Network
+
+VSL - Video Sales Letter
+
+VR - Virtual Reality
+
+WH - Whitehat
