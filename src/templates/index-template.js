@@ -1,18 +1,11 @@
-// @flow
 import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import Sidebar from '../components/Sidebar';
 import Feed from '../components/Feed';
 import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 
-type Props = {
-  +data: Object,
-  +pageContext: Object,
-};
-
-const IndexTemplate = ({ data, pageContext }: Props) => {
+const IndexTemplate = ({ data, pageContext }) => {
   const {
     title: siteTitle,
     subtitle: siteSubtitle
@@ -31,7 +24,6 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
 
   return (
     <Layout title={pageTitle} description={siteSubtitle}>
-      <Sidebar isIndex />
       <Page>
         <Feed edges={edges} />
         <Pagination
